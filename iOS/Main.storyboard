@@ -105,15 +105,15 @@
                                     <constraint firstAttribute="width" secondItem="FPp-gu-S1w" secondAttribute="height" multiplier="1:1" id="mE3-WE-ZjC"/>
                                 </constraints>
                             </imageView>
-                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iG4-T0-1Ae">
-                                <rect key="frame" x="277" y="512" width="46" height="30"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iG4-T0-1Ae">
+                                <rect key="frame" x="285" y="512" width="30" height="30"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="30" id="HHl-wV-2Jr"/>
                                 </constraints>
                                 <state key="normal" title="Map"/>
                             </button>
-                            <button opaque="NO" contentMode="scaleToFill" misplaced="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9qt-Sw-djA">
-                                <rect key="frame" x="277" y="550" width="46" height="30"/>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9qt-Sw-djA">
+                                <rect key="frame" x="285" y="550" width="31" height="30"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="30" id="ahA-kq-wc2"/>
                                 </constraints>

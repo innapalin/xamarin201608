@@ -21,6 +21,8 @@ namespace xamarin2.iOS
 			// Override point for customization after application launch.
 			// If not required for your application you can safely delete this method
 
+			NSThread.SleepFor(5);
+
 			return true;
 		}
 
