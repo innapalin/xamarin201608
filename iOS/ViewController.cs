@@ -54,8 +54,7 @@ namespace xamarin2.iOS
 			m_table.Source = todoSource;
 
 			todoSource.TodoSelected += (object sender, TodoSelectedEventArgs e) =>
-			{
-				//Debug.WriteLine($"Name:{e.selectedTodo.Name}; Description:{e.selectedTodo.Desc}");
+			{				
 				Debug.WriteLine($"selected item:{e.selectedTodo}");
 
 				PerformSegue("toDetail", this);

@@ -44,8 +44,32 @@ namespace xamarin2.Droid
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f050001
+			public const int detail_btn_map = 2131034113;
+			
+			// aapt resource value: 0x7f050002
+			public const int detail_btn_web = 2131034114;
+			
 			// aapt resource value: 0x7f050000
-			public const int myButton = 2131034112;
+			public const int detail_iv = 2131034112;
+			
+			// aapt resource value: 0x7f050003
+			public const int launch_iv = 2131034115;
+			
+			// aapt resource value: 0x7f050005
+			public const int list_iv = 2131034117;
+			
+			// aapt resource value: 0x7f050007
+			public const int list_lv = 2131034119;
+			
+			// aapt resource value: 0x7f050006
+			public const int list_tv = 2131034118;
+			
+			// aapt resource value: 0x7f050004
+			public const int listviewitem_tv = 2131034116;
+			
+			// aapt resource value: 0x7f050008
+			public const int web_wv = 2131034120;
 			
 			static Id()
 			{
@@ -61,7 +85,22 @@ namespace xamarin2.Droid
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int Main = 2130903040;
+			public const int Detail = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int Launch = 2130903041;
+			
+			// aapt resource value: 0x7f030002
+			public const int ListViewItemLayout = 2130903042;
+			
+			// aapt resource value: 0x7f030003
+			public const int Main = 2130903043;
+			
+			// aapt resource value: 0x7f030004
+			public const int Map = 2130903044;
+			
+			// aapt resource value: 0x7f030005
+			public const int Web = 2130903045;
 			
 			static Layout()
 			{
@@ -77,7 +116,16 @@ namespace xamarin2.Droid
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int Icon = 2130837504;
+			public const int detail = 2130837504;
+			
+			// aapt resource value: 0x7f020001
+			public const int Icon = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int launch = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int list = 2130837507;
 			
 			static Mipmap()
 			{
